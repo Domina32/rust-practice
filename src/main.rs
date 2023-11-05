@@ -1,3 +1,4 @@
+mod collections_excercises;
 mod fibonacci;
 mod guessing_game;
 mod rectangle;
@@ -8,5 +9,7 @@ fn main() {
     //temperature_calculator::temperature_calculator();
     //fibonacci::nth_fibonacci();
     //fibonacci::nth_fibonacci_loop();
-    rectangle::shape_area();
+    //rectangle::shape_area();
+    //collections_excercises::middles();
+    //collections_excercises::pig_latin();
 }
