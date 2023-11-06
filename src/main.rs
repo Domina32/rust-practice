@@ -1,6 +1,7 @@
 mod collections_excercises;
 mod fibonacci;
 mod guessing_game;
+mod minigrep;
 mod rectangle;
 mod temperature_calculator;
 
@@ -12,4 +13,5 @@ fn main() {
     //rectangle::shape_area();
     //collections_excercises::middles();
     //collections_excercises::pig_latin();
+    minigrep::main();
 }
